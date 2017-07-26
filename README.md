@@ -1,8 +1,9 @@
 # Hello, Tensorflow!
 
 This a corrected, beautified, and commented code in [Hello, Tensorflow!](https://www.oreilly.com/learning/hello-tensorflow) book.
-| Before                                                                 | After |
-| ---------------------------------------------------------------------- | ----: |
+
+| Before                                                                 | After                                                                  |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 |import tensorflow as tf                                                 |import tensorflow as tf                                                 |
 |                                                                        |                                                                        |
 |x = tf.constant(1.0, name='input')                                      |x = tf.constant(1.0, name='input')                                      |
