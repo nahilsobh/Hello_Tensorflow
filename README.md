@@ -1,6 +1,8 @@
 # Hello, Tensorflow!
 
-This a corrected, beautified, and commented code in [Hello, Tensorflow!](https://www.oreilly.com/learning/hello-tensorflow) book.
+This a corrected, beautified, and commented versionof code in [Hello, Tensorflow!](https://www.oreilly.com/learning/hello-tensorflow) book.
+
+Here are the main corrections:
 
 | Before                                                                     | After                                                                  |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
